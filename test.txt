@@ -3,5 +3,5 @@
 asdgasdgasdgg
 asdfasdfadsf
 
-implmentiram kupuvanje
-implemtacija na registracija
+implmentiram aftentikacija
+implemtacija na logiranje
