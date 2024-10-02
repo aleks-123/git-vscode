@@ -9,3 +9,5 @@ IMPLMENTIRAM FOOTER
 
 Implemntira kopcinjata za plajanje
 payment sistem implementiran
+
+bg-color-700
